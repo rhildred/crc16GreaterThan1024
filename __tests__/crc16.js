@@ -1,4 +1,4 @@
-const crc16 = require("../crc16.js");
+const crc16 = require("../index.js");
 
 it("checks crc for \"rhlab.io\"", ()=>{
 	expect(crc16("rhlab.io")).toBe(52639);
