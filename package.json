@@ -1,0 +1,29 @@
+{
+  "name": "crc16greaterthan1024",
+  "bin": "index.js",
+  "version": "1.0.0",
+  "description": "get a CRC16 that is greater than 1024",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhildred/crc16GreaterThan1024.git"
+  },
+  "keywords": [
+    "CRC16",
+    "node",
+    "npm"
+  ],
+  "author": "Rich Hildred",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhildred/crc16GreaterThan1024/issues"
+  },
+  "homepage": "https://github.com/rhildred/crc16GreaterThan1024#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
