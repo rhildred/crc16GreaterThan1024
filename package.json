@@ -1,11 +1,11 @@
 {
   "name": "unprivilegedcrc16",
-  "bin": "unprivilegedcrc16.js",
+  "bin": "getPort.js",
   "version": "1.0.1",
   "description": "get a CRC16 that is greater than 1024",
   "main": "index.js",
   "scripts": {
-    "start": "node unprivilegedcrc16.js",
+    "start": "node getPort.js",
     "test": "jest"
   },
   "repository": {
