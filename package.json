@@ -1,5 +1,5 @@
 {
-  "name": "unprivilegedCrc16",
+  "name": "unprivilegedcrc16",
   "bin": "index.js",
   "version": "1.0.0",
   "description": "get a CRC16 that is greater than 1024",
